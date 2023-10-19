@@ -1,8 +1,8 @@
 # Manipulator_Modeling-Control
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/aglora/Manipulator_Modeling-Control/blob/main/imgs/3dof-DH.png" width="500" />
-  <img src="https://github.com/aglora/Manipulator_Modeling-Control/blob/main/imgs/6dof-DH.png" width="300" />
+  <img src="https://github.com/aglora/Manipulator_Modeling-Control/blob/main/imgs/3dof-DH.png" width="300" />
+  <img src="https://github.com/aglora/Manipulator_Modeling-Control/blob/main/imgs/6dof-DH.png" width="500" />
 </div>
 
 # OBJETIVO
@@ -30,3 +30,11 @@ seguimiento de trayectorias. Desarrollaremos el control cinemático que genere d
 trayectoria y veremos diversas técnicas de control aplicándolas al conjunto, de forma
 que se cumplan los requisitos establecidos con la mayor calidad y el menor error
 cometido posible.
+
+<img src="https://github.com/aglora/Manipulator_Modeling-Control/blob/main/imgs/esquema.png" width="800" />
+
+# SIMULACIONES
+
+Se ha usado Matlab & Simulink para las simulaicones cinemáticas y dinámicas de movimiento y control del brazo articulado.
+
+<img src="https://github.com/aglora/Manipulator_Modeling-Control/blob/main/imgs/Simulink.png" width="900" />
